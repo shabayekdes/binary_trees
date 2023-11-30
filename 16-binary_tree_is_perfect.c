@@ -22,7 +22,7 @@ int tree_is_perfect(const binary_tree_t *tree)
 	{
 		return (1);
 	}
-    return (0);
+	return (0);
 }
 /**
  * binary_tree_is_perfect - perfect or not a tree
